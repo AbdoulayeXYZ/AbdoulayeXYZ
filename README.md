@@ -5,12 +5,34 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Bienvenue sur mon profil GitHub !
+
+### 🚀 Skills Principales
+
+**Développement Web Full Stack**
+- MEAN Stack (MongoDB, Express.js, Angular, Node.js)
+- JavaScript (React, Vue.js, Next.js)
+- HTML, CSS, Sass, Bootstrap
+
+**Machine Learning & Deep Learning**
+- Python (NumPy, Pandas, Scikit-Learn)
+- TensorFlow, Keras, PyTorch
+- Vision par Ordinateur, NLP, Réseaux de Neurones, Yolo etc...
+
+**Autres Compétences**
+- UI/UX Design (Figma, Adobe XD)
+- Robotique Avancée (RaspberrY PI & ARDUINO, ESP)
+- Git, Docker, CI/CD
+
+### 🔭 Projets Remarquables
+
+- ** Crypto-ID ** : Gestion des identifiants national
+- ** AI-Karangué ** : IA embarquée dans les vehicules
+- ** Green Tech ** : Plateforme de suivi végetale
+
+
+### 📫 Me Contacter
+
+- Portfolio : [votreportfolio.com](https://votreportfolio.com)
+- LinkedIn : https://www.linkedin.com/in/abdoulaye-niasse/
+- Email : niasseabdoulaye64@email.com
