@@ -26,6 +26,5 @@
 
 ### 📫 Me Contacter
 
-- Portfolio : [votreportfolio.com](https://votreportfolio.com)
 - LinkedIn : https://www.linkedin.com/in/abdoulaye-niasse/
 - Email : niasseabdoulaye64@email.com
