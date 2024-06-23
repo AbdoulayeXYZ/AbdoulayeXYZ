@@ -9,7 +9,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- A passionate Back-en developer
+- A passionate Back-end developer
 - ML/DL Student
 - Robotics student
 
